@@ -1,0 +1,16 @@
+//single muon
+HLT_IsoMu20_v*
+HLT_IsoMu24_v*				hltL3crIsoL1sSingleMu22L1f0L2f10QL3f24QL3trkIsoFiltered0p07	1
+HLT_IsoMu24_eta2p1_v*			hltL3crIsoL1sSingleMu22erL1f0L2f10QL3f24QL3trkIsoFiltered0p07	1
+HLT_IsoMu27_v*				hltL3crIsoL1sMu22Or25L1f0L2f10QL3f27QL3trkIsoFiltered0p07	1
+HLT_IsoMu30_v*				hltL3crIsoL1sMu22Or25L1f0L2f10QL3f30QL3trkIsoFiltered0p07	1
+HLT_Mu20_v*				hltL3fL1sMu18L1f0L2f10QL3Filtered20Q				1
+HLT_Mu50_v*				hltL3fL1sMu22Or25L1f0L2f10QL3Filtered50Q			1
+HLT_Mu55_v*				hltL3fL1sMu22Or25L1f0L2f10QL3Filtered55Q			1
+
+//single electron
+HLT_Ele27_WPTight_Gsf_v*		hltEle27WPTightGsfTrackIsoFilter			1
+HLT_Ele32_WPTight_Gsf_v*		hltEle32WPTightGsfTrackIsoFilter			1
+HLT_Ele35_WPTight_Gsf_v*		hltEle35WPTightGsfTrackIsoFilter			1
+HLT_Ele38_WPTight_Gsf_v*		hltEle38WPTightGsfTrackIsoFilter			1
+HLT_Ele40_WPTight_Gsf_v*		hltEle40WPTightGsfTrackIsoFilter			1
