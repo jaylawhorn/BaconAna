@@ -1,5 +1,5 @@
 //single muon
-HLT_IsoMu20_v*
+//HLT_IsoMu20_v*
 HLT_IsoMu24_v*				hltL3crIsoL1sSingleMu22L1f0L2f10QL3f24QL3trkIsoFiltered0p07	1
 HLT_IsoMu24_eta2p1_v*			hltL3crIsoL1sSingleMu22erL1f0L2f10QL3f24QL3trkIsoFiltered0p07	1
 HLT_IsoMu27_v*				hltL3crIsoL1sMu22Or25L1f0L2f10QL3f27QL3trkIsoFiltered0p07	1
